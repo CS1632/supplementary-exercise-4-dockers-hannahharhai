@@ -49,5 +49,6 @@ public class ConnectTest {
   public void testConnection() {
     // Test that the webserver is ready to service an HTTP request
     driver.get("http://localhost:8080/");
+    // hi
   }
 }
